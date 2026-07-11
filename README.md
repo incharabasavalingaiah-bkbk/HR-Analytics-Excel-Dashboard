@@ -45,6 +45,6 @@ IBM HR Employee Attrition Dataset
 - Business Insights
 
 ## 👩‍💼 Author
-**Inchara Basavalingaiah**
+**Inchara B**
 
 MBA (HR & Finance) | HR Analytics Enthusiast
